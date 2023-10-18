@@ -29,7 +29,19 @@ fun main(){
     //Results
     //=======
 
+    println(intLongNumber)
+
+    // To get the Type of Variable Use : " :: class.java.typeName"
     println(intLongNumber::class.java.typeName)
+
+
+    // "Any": It is the root of the Kotlin class hierarchy. It is equivalent to Object in Java.
+    // It can Store any Variable as it is the Root of all Classes in Kotlin
+    val progLanguages : Any = "Hello"
+    println(progLanguages)
+    println(progLanguages :: class.java.typeName)
+
+
 
 
 
