@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74cf051f-9271-43ff-be65-d01a1bbbcff8" name="Changes" comment="Introduction to Kotlin">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ReservedKeywords.kt.kt" afterDir="false" />
+    <list default="true" id="74cf051f-9271-43ff-be65-d01a1bbbcff8" name="Changes" comment="Reserved Keywords">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ReservedKeywords.kt.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/VariablesAndDataTypes.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +24,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="kotlin_introduction" />
+        <entry key="$PROJECT_DIR$" value="reserved_keywords" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -74,7 +74,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "reserved__keywords",
+    "git-widget-placeholder": "Variables-and-Data-Types",
     "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui",
     "show.migrate.to.gradle.popup": "false"
@@ -113,7 +113,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697640852638</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Reserved Keywords">
+      <option name="closed" value="true" />
+      <created>1697644512634</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1697644512634</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -141,6 +149,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Introduction to Kotlin" />
-    <option name="LAST_COMMIT_MESSAGE" value="Introduction to Kotlin" />
+    <MESSAGE value="Reserved Keywords" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reserved Keywords" />
   </component>
 </project>
