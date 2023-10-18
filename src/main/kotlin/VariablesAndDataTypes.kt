@@ -1,5 +1,14 @@
+const val PI = 3.14
 fun main(){
-    // val : Used To Create Variable Which can be Assigned Only Once.
+    // val : Used To Create Variable Which can be Assigned Only Once.  ==> like final in Java
+    /*
+     1)const : Used to Create Variables Which can be Assigned Only Once.  ==> like static final in Java
+     2)const variables are Known before Code Execution.
+     3)They are Initialised Outside Functions.
+     4)In Kotlin, you cannot declare const variables inside functions. The const keyword is used to declare
+       compile-time constants, and it can only be applied to top-level or member variables of objects or
+       companion objects.
+     */
     // var : Used To Create Variable Which can be Reassigned .
 
     val userId : String = "CR_76548_2023"
@@ -8,6 +17,14 @@ fun main(){
     userName += " Wani"
     println(userId)
     println(userName)
+
+    // const Keyword in Action
+
+    fun getConstValue() : Double{
+        return PI;
+    }
+
+    print(getConstValue())
 
     // DataTypes in Kotlin
     // ===================
