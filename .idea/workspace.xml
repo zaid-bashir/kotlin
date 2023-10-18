@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74cf051f-9271-43ff-be65-d01a1bbbcff8" name="Changes" comment="Reserved Keywords">
+    <list default="true" id="74cf051f-9271-43ff-be65-d01a1bbbcff8" name="Changes" comment="Variables and Data Types">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ReservedKeywords.kt.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/VariablesAndDataTypes.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/VariablesAndDataTypes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/VariablesAndDataTypes.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697644512634</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Variables and Data Types">
+      <option name="closed" value="true" />
+      <created>1697645004527</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1697645004527</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -150,6 +158,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Introduction to Kotlin" />
     <MESSAGE value="Reserved Keywords" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reserved Keywords" />
+    <MESSAGE value="Variables and Data Types" />
+    <option name="LAST_COMMIT_MESSAGE" value="Variables and Data Types" />
   </component>
 </project>
