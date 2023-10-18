@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="74cf051f-9271-43ff-be65-d01a1bbbcff8" name="Changes" comment="Variables and Data Types">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/VariablesAndDataTypes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/VariablesAndDataTypes.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -129,7 +128,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697645004527</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Variables and Data Types">
+      <option name="closed" value="true" />
+      <created>1697645887018</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1697645887019</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -143,7 +150,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="kotlin_introduction" />
+                        <option value="Variables-and-Data-Types" />
                       </list>
                     </value>
                   </entry>
